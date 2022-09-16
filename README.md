@@ -1,12 +1,12 @@
 # Git commands
 git pull origin main (hente nyeste verjson)
 
-git status 
-git add .
-git commit -m "commit melding" 
-git push origin main
+git status (sjekker status til git)
+git add . (legger til i commit)
+git commit -m "commit melding" (commiter)
+git push origin main (pusher til main)
 
-git checkout -b <branch-name>
+git checkout -b <branch-name>   
 git push origin branch name
 git checkout main (tilbake til main)
 
