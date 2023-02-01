@@ -12,3 +12,4 @@ git checkout -b <branch-name>
 git push origin branch name
 git checkout main (tilbake til main)
 
+git noebalaab
